@@ -10,3 +10,4 @@ Edition locally !
 
 This is a new locally edit to create conflict.
 
+Another edit, again locally.
